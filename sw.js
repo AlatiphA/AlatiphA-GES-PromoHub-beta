@@ -7,7 +7,7 @@
    get a "New version available" prompt on next visit.
 ===================================================== */
 
-const APP_VERSION  = "v1.3.12";
+const APP_VERSION  = "v1.3.13";
 const CACHE_NAME   = `alatipha-ges-promohub-${APP_VERSION}`;
 
 /* ====================
@@ -60,7 +60,12 @@ const FILES_TO_CACHE = [
   "./app.js",
   "./sw.js",
   "./manifest.json",
-  "./library/sample.epub",
+  "./library/gespasco.epub",
+  "./library/mat1.epub",
+  "./library/mat2.epub",
+  "./library/etmala.epub",
+  "./library/nfatfges.epub",
+  "./library/eigala.epub",
   "./icon-192.png",
   "./icon-512.png",
   "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css",
