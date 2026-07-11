@@ -1088,7 +1088,7 @@ body.night .momoCard { background: rgba(255,196,0,0.04); }
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 12px;
   padding: 14px;
   box-sizing: border-box;
 }
@@ -1100,7 +1100,7 @@ body.night .momoCard { background: rgba(255,196,0,0.04); }
   background: var(--lib-surface);
   border: 1px solid var(--lib-border);
   border-radius: 10px;
-  padding: 11px 12px;
+  padding: 12px;
   cursor: pointer;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
@@ -1111,7 +1111,7 @@ body.night .momoCard { background: rgba(255,196,0,0.04); }
 
 .bookCover {
   width: 44px;
-  height: 56px;
+  height: 60px;
   background: #956433;
   border-radius: 6px;
   display: flex;
