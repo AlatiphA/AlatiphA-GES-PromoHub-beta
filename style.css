@@ -1096,11 +1096,11 @@ body.night .momoCard { background: rgba(255,196,0,0.04); }
 .bookCard {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 12px;
   background: var(--lib-surface);
   border: 1px solid var(--lib-border);
   border-radius: 12px;
-  padding: 14px;
+  padding: 12px;
   cursor: pointer;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
