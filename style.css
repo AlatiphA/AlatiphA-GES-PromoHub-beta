@@ -388,33 +388,6 @@ body.night .sidebar { background: #0a0a0a; color: #bbbbbb; }
   font-size: 11px;
 }
 
-.sidebarFooter {
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  padding: 10px 12px;
-  border-top: 1px solid var(--border, #ddd);
-  font-size: 11px;
-}
-
-.sidebarFooterLink {
-  color: #956433;
-  text-decoration: none;
-  display: flex;
-  align-items: center;
-  gap: 4px;
-}
-
-.sidebarFooterDot {
-  opacity: 0.3;
-}
-
-.sidebarFooterCopy {
-  opacity: 0.45;
-}
-
 
 /* =========================
    TOC
